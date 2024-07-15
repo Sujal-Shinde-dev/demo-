@@ -1,2 +1,2 @@
 # demo-
-This is demo for Git &amp; GitHub
+This is demo for Git &amp; GitHub.
